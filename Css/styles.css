@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+}
+.container {
+  position:relative;
+}
+.h1-tekst {
+  color: white;
+  font-style: italic;
+  position: absolute;
+  margin-top: 50px;
+  margin-left: 100px;
+}
+.img-taevas {
+  width: 1250px;
+
+}
+.img-muru {
+  width: 1250px;
+}
+.img-tulp1 {
+  position: absolute;
+  margin-top: 350px;
+  margin-left: 1100px;
+  width: 100px;
+  height: auto;
+}
+.img-tulp2 {
+  position: absolute;
+  margin-top: 400px;
+  margin-left: 900px;
+  width: 100px;
+  height: auto;
+}
+.img-lumikelluke {
+  position: absolute;
+  margin-top: 400px;
+  margin-left: 300px;
+  width: 100px;
+  height: auto;
+}
+.img-sinilill {
+  position: absolute;
+  margin-top: 500px;
+  margin-left: 550px;
+  width: 100px;
+  height: auto;
+}
+.img-nartsiss {
+  position: absolute;
+  margin-top: 550px;
+  margin-left: 75px;
+  width: 100px;
+  height: auto;
+}
